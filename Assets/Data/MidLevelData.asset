@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e56a4064b2c3bd49bc49c083c647a19, type: 3}
+  m_Name: MidLevelData
+  m_EditorClassIdentifier: 
+  innerTiles:
+  - {fileID: 21300082, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  outerTiles:
+  - {fileID: 21300066, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300068, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300070, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300072, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300084, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300086, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300088, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300074, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  edgeTiles:
+  - {fileID: 21300102, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300104, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300106, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300108, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300096, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300098, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  - {fileID: 21300100, guid: c843cdf2e6a3297498ee03e8df1a921b, type: 3}
+  decorators:
+  - {fileID: 1420499815798598, guid: 133fa0fbd5a73064b96277c25e050d59, type: 2}
+  - {fileID: 1531908622327862, guid: a3c3db1f77213674cbee2f17e814bfc2, type: 2}
